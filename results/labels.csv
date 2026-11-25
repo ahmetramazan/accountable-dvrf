@@ -1,0 +1,134 @@
+scheme,mode,n,t,quorum,kind
+GLOW-DVRF,-,5,2,3,deploy
+GLOW-DVRF,-,5,2,3,verify
+GLOW-A MSP-pop,storage,5,2,3,deploy
+GLOW-A MSP-pop,storage,5,2,3,verify
+GLOW-A MSP-pop,calldata,5,2,3,verify
+GLOW-A ASM-pop,storage,5,2,3,deploy
+GLOW-A ASM-pop,storage,5,2,3,verify
+GLOW-A ASM-pop,calldata,5,2,3,verify
+GLOW-A ASM-pop,hashed,5,2,3,verify
+DDH-DVRF,storage,5,2,3,deploy
+DDH-DVRF,storage,5,2,3,verify
+DDH-DVRF,calldata,5,2,3,verify
+Icy-DVRF,-,5,2,3,deploy
+Icy-DVRF,-,5,2,3,verify
+Icy-N,-,5,2,3,deploy
+Icy-N,-,5,2,3,verify
+Icy-A,storage,5,2,3,deploy
+Icy-A,storage,5,2,3,verify
+Icy-A,calldata,5,2,3,verify
+GLOW-DVRF,-,6,2,3,deploy
+GLOW-DVRF,-,6,2,3,verify
+GLOW-A MSP-pop,storage,6,2,3,deploy
+GLOW-A MSP-pop,storage,6,2,3,verify
+GLOW-A MSP-pop,calldata,6,2,3,verify
+GLOW-A ASM-pop,storage,6,2,3,deploy
+GLOW-A ASM-pop,storage,6,2,3,verify
+GLOW-A ASM-pop,calldata,6,2,3,verify
+GLOW-A ASM-pop,hashed,6,2,3,verify
+DDH-DVRF,storage,6,2,3,deploy
+DDH-DVRF,storage,6,2,3,verify
+DDH-DVRF,calldata,6,2,3,verify
+Icy-DVRF,-,6,2,3,deploy
+Icy-DVRF,-,6,2,3,verify
+Icy-N,-,6,2,3,deploy
+Icy-N,-,6,2,3,verify
+Icy-A,storage,6,2,3,deploy
+Icy-A,storage,6,2,3,verify
+Icy-A,calldata,6,2,3,verify
+GLOW-DVRF,-,7,3,4,deploy
+GLOW-DVRF,-,7,3,4,verify
+GLOW-A MSP-pop,storage,7,3,4,deploy
+GLOW-A MSP-pop,storage,7,3,4,verify
+GLOW-A MSP-pop,calldata,7,3,4,verify
+GLOW-A ASM-pop,storage,7,3,4,deploy
+GLOW-A ASM-pop,storage,7,3,4,verify
+GLOW-A ASM-pop,calldata,7,3,4,verify
+GLOW-A ASM-pop,hashed,7,3,4,verify
+DDH-DVRF,storage,7,3,4,deploy
+DDH-DVRF,storage,7,3,4,verify
+DDH-DVRF,calldata,7,3,4,verify
+Icy-DVRF,-,7,3,4,deploy
+Icy-DVRF,-,7,3,4,verify
+Icy-N,-,7,3,4,deploy
+Icy-N,-,7,3,4,verify
+Icy-A,storage,7,3,4,deploy
+Icy-A,storage,7,3,4,verify
+Icy-A,calldata,7,3,4,verify
+GLOW-DVRF,-,10,4,5,deploy
+GLOW-DVRF,-,10,4,5,verify
+GLOW-A MSP-pop,storage,10,4,5,deploy
+GLOW-A MSP-pop,storage,10,4,5,verify
+GLOW-A MSP-pop,calldata,10,4,5,verify
+GLOW-A ASM-pop,storage,10,4,5,deploy
+GLOW-A ASM-pop,storage,10,4,5,verify
+GLOW-A ASM-pop,calldata,10,4,5,verify
+GLOW-A ASM-pop,hashed,10,4,5,verify
+DDH-DVRF,storage,10,4,5,deploy
+DDH-DVRF,storage,10,4,5,verify
+DDH-DVRF,calldata,10,4,5,verify
+Icy-DVRF,-,10,4,5,deploy
+Icy-DVRF,-,10,4,5,verify
+Icy-N,-,10,4,5,deploy
+Icy-N,-,10,4,5,verify
+Icy-A,storage,10,4,5,deploy
+Icy-A,storage,10,4,5,verify
+Icy-A,calldata,10,4,5,verify
+GLOW-DVRF,-,25,12,13,deploy
+GLOW-DVRF,-,25,12,13,verify
+GLOW-A MSP-pop,storage,25,12,13,deploy
+GLOW-A MSP-pop,storage,25,12,13,verify
+GLOW-A MSP-pop,calldata,25,12,13,verify
+GLOW-A ASM-pop,storage,25,12,13,deploy
+GLOW-A ASM-pop,storage,25,12,13,verify
+GLOW-A ASM-pop,calldata,25,12,13,verify
+GLOW-A ASM-pop,hashed,25,12,13,verify
+DDH-DVRF,storage,25,12,13,deploy
+DDH-DVRF,storage,25,12,13,verify
+DDH-DVRF,calldata,25,12,13,verify
+Icy-DVRF,-,25,12,13,deploy
+Icy-DVRF,-,25,12,13,verify
+Icy-N,-,25,12,13,deploy
+Icy-N,-,25,12,13,verify
+Icy-A,storage,25,12,13,deploy
+Icy-A,storage,25,12,13,verify
+Icy-A,calldata,25,12,13,verify
+GLOW-DVRF,-,50,24,25,deploy
+GLOW-DVRF,-,50,24,25,verify
+GLOW-A MSP-pop,storage,50,24,25,deploy
+GLOW-A MSP-pop,storage,50,24,25,verify
+GLOW-A MSP-pop,calldata,50,24,25,verify
+GLOW-A ASM-pop,storage,50,24,25,deploy
+GLOW-A ASM-pop,storage,50,24,25,verify
+GLOW-A ASM-pop,calldata,50,24,25,verify
+GLOW-A ASM-pop,hashed,50,24,25,verify
+DDH-DVRF,storage,50,24,25,deploy
+DDH-DVRF,storage,50,24,25,verify
+DDH-DVRF,calldata,50,24,25,verify
+Icy-DVRF,-,50,24,25,deploy
+Icy-DVRF,-,50,24,25,verify
+Icy-N,-,50,24,25,deploy
+Icy-N,-,50,24,25,verify
+Icy-A,storage,50,24,25,deploy
+Icy-A,storage,50,24,25,verify
+Icy-A,calldata,50,24,25,verify
+GLOW-DVRF,-,100,49,50,deploy
+GLOW-DVRF,-,100,49,50,verify
+GLOW-A MSP-pop,storage,100,49,50,deploy
+GLOW-A MSP-pop,storage,100,49,50,verify
+GLOW-A MSP-pop,calldata,100,49,50,verify
+GLOW-A ASM-pop,storage,100,49,50,deploy
+GLOW-A ASM-pop,storage,100,49,50,verify
+GLOW-A ASM-pop,calldata,100,49,50,verify
+GLOW-A ASM-pop,hashed,100,49,50,verify
+DDH-DVRF,storage,100,49,50,deploy
+DDH-DVRF,storage,100,49,50,verify
+DDH-DVRF,calldata,100,49,50,verify
+Icy-DVRF,-,100,49,50,deploy
+Icy-DVRF,-,100,49,50,verify
+Icy-N,-,100,49,50,deploy
+Icy-N,-,100,49,50,verify
+Icy-A,storage,100,49,50,deploy
+Icy-A,storage,100,49,50,verify
+Icy-A,calldata,100,49,50,verify

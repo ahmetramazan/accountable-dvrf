@@ -1,0 +1,295 @@
+scheme,step,n,t,quorum,median_us
+GLOW-DVRF,peval,5,2,3,286.8
+GLOW-DVRF,pver,5,2,3,383.0
+GLOW-DVRF,combine,5,2,3,1373.3
+GLOW-DVRF,verify,5,2,3,781.7
+GLOW-A MSP-pop,keygen,5,2,3,271.9
+GLOW-A MSP-pop,setup-pop-check,5,2,3,3123.0
+GLOW-A MSP-pop,peval,5,2,3,423.5
+GLOW-A MSP-pop,pver,5,2,3,1280.3
+GLOW-A MSP-pop,combine,5,2,3,3838.3
+GLOW-A MSP-pop,verify,5,2,3,1213.8
+GLOW-A ASM-pop,setup-pop-check,5,2,3,3119.2
+GLOW-A ASM-pop,setup-group,5,2,3,1409.5
+GLOW-A ASM-pop,peval,5,2,3,421.3
+GLOW-A ASM-pop,pver,5,2,3,1517.9
+GLOW-A ASM-pop,combine,5,2,3,4586.3
+GLOW-A ASM-pop,verify,5,2,3,1509.9
+DDH-DVRF,peval,5,2,3,285.5
+DDH-DVRF,pver,5,2,3,345.5
+DDH-DVRF,combine,5,2,3,1382.5
+DDH-DVRF,verify,5,2,3,1374.7
+Icy-DVRF,preprocess-token,5,2,3,145.3
+Icy-DVRF,round1,5,2,3,442.3
+Icy-DVRF,round2,5,2,3,740.0
+Icy-DVRF,combine,5,2,3,2992.5
+Icy-DVRF,verify,5,2,3,380.1
+Icy-N,preprocess-token,5,2,3,145.5
+Icy-N,round1,5,2,3,764.2
+Icy-N,round2,5,2,3,3931.3
+Icy-N,combine,5,2,3,5133.4
+Icy-N,verify,5,2,3,425.4
+Icy-A,preprocess-token,5,2,3,312.1
+Icy-A,round1,5,2,3,1214.3
+Icy-A,round2,5,2,3,4380.2
+Icy-A,combine,5,2,3,5953.2
+Icy-A,verify,5,2,3,838.0
+GLOW-DVRF,peval,6,2,3,404.5
+GLOW-DVRF,pver,6,2,3,481.7
+GLOW-DVRF,combine,6,2,3,1585.6
+GLOW-DVRF,verify,6,2,3,1141.7
+GLOW-A MSP-pop,keygen,6,2,3,376.7
+GLOW-A MSP-pop,setup-pop-check,6,2,3,5710.7
+GLOW-A MSP-pop,peval,6,2,3,572.2
+GLOW-A MSP-pop,pver,6,2,3,1804.7
+GLOW-A MSP-pop,combine,6,2,3,4173.4
+GLOW-A MSP-pop,verify,6,2,3,1213.6
+GLOW-A ASM-pop,setup-pop-check,6,2,3,3910.2
+GLOW-A ASM-pop,setup-group,6,2,3,1536.7
+GLOW-A ASM-pop,peval,6,2,3,421.2
+GLOW-A ASM-pop,pver,6,2,3,1391.5
+GLOW-A ASM-pop,combine,6,2,3,4601.5
+GLOW-A ASM-pop,verify,6,2,3,1527.0
+DDH-DVRF,peval,6,2,3,284.9
+DDH-DVRF,pver,6,2,3,352.8
+DDH-DVRF,combine,6,2,3,1234.4
+DDH-DVRF,verify,6,2,3,1402.1
+Icy-DVRF,preprocess-token,6,2,3,145.5
+Icy-DVRF,round1,6,2,3,442.4
+Icy-DVRF,round2,6,2,3,735.9
+Icy-DVRF,combine,6,2,3,3004.5
+Icy-DVRF,verify,6,2,3,388.8
+Icy-N,preprocess-token,6,2,3,145.2
+Icy-N,round1,6,2,3,765.1
+Icy-N,round2,6,2,3,4064.7
+Icy-N,combine,6,2,3,5619.4
+Icy-N,verify,6,2,3,470.3
+Icy-A,preprocess-token,6,2,3,293.0
+Icy-A,round1,6,2,3,1173.0
+Icy-A,round2,6,2,3,4002.3
+Icy-A,combine,6,2,3,5290.4
+Icy-A,verify,6,2,3,767.3
+GLOW-DVRF,peval,7,3,4,293.5
+GLOW-DVRF,pver,7,3,4,419.5
+GLOW-DVRF,combine,7,3,4,1805.7
+GLOW-DVRF,verify,7,3,4,777.1
+GLOW-A MSP-pop,keygen,7,3,4,272.1
+GLOW-A MSP-pop,setup-pop-check,7,3,4,4647.2
+GLOW-A MSP-pop,peval,7,3,4,422.5
+GLOW-A MSP-pop,pver,7,3,4,1239.7
+GLOW-A MSP-pop,combine,7,3,4,5316.3
+GLOW-A MSP-pop,verify,7,3,4,1218.3
+GLOW-A ASM-pop,setup-pop-check,7,3,4,4729.5
+GLOW-A ASM-pop,setup-group,7,3,4,1667.7
+GLOW-A ASM-pop,peval,7,3,4,421.0
+GLOW-A ASM-pop,pver,7,3,4,1424.6
+GLOW-A ASM-pop,combine,7,3,4,6256.5
+GLOW-A ASM-pop,verify,7,3,4,1518.8
+DDH-DVRF,peval,7,3,4,289.0
+DDH-DVRF,pver,7,3,4,362.8
+DDH-DVRF,combine,7,3,4,1602.2
+DDH-DVRF,verify,7,3,4,1614.9
+Icy-DVRF,preprocess-token,7,3,4,145.3
+Icy-DVRF,round1,7,3,4,447.0
+Icy-DVRF,round2,7,3,4,828.0
+Icy-DVRF,combine,7,3,4,3700.2
+Icy-DVRF,verify,7,3,4,406.2
+Icy-N,preprocess-token,7,3,4,145.1
+Icy-N,round1,7,3,4,763.9
+Icy-N,round2,7,3,4,6084.6
+Icy-N,combine,7,3,4,7035.5
+Icy-N,verify,7,3,4,429.5
+Icy-A,preprocess-token,7,3,4,319.3
+Icy-A,round1,7,3,4,1119.3
+Icy-A,round2,7,3,4,5817.7
+Icy-A,combine,7,3,4,8725.9
+Icy-A,verify,7,3,4,1027.1
+GLOW-DVRF,peval,10,4,5,288.9
+GLOW-DVRF,pver,10,4,5,498.1
+GLOW-DVRF,combine,10,4,5,2655.1
+GLOW-DVRF,verify,10,4,5,791.2
+GLOW-A MSP-pop,keygen,10,4,5,305.4
+GLOW-A MSP-pop,setup-pop-check,10,4,5,7128.8
+GLOW-A MSP-pop,peval,10,4,5,419.4
+GLOW-A MSP-pop,pver,10,4,5,1231.8
+GLOW-A MSP-pop,combine,10,4,5,6697.0
+GLOW-A MSP-pop,verify,10,4,5,1260.0
+GLOW-A ASM-pop,setup-pop-check,10,4,5,7049.5
+GLOW-A ASM-pop,setup-group,10,4,5,2055.1
+GLOW-A ASM-pop,peval,10,4,5,420.7
+GLOW-A ASM-pop,pver,10,4,5,1431.5
+GLOW-A ASM-pop,combine,10,4,5,7986.0
+GLOW-A ASM-pop,verify,10,4,5,1648.6
+DDH-DVRF,peval,10,4,5,418.0
+DDH-DVRF,pver,10,4,5,402.1
+DDH-DVRF,combine,10,4,5,2299.5
+DDH-DVRF,verify,10,4,5,2285.3
+Icy-DVRF,preprocess-token,10,4,5,214.6
+Icy-DVRF,round1,10,4,5,640.0
+Icy-DVRF,round2,10,4,5,1100.8
+Icy-DVRF,combine,10,4,5,5013.5
+Icy-DVRF,verify,10,4,5,527.1
+Icy-N,preprocess-token,10,4,5,145.8
+Icy-N,round1,10,4,5,795.5
+Icy-N,round2,10,4,5,7087.8
+Icy-N,combine,10,4,5,8871.2
+Icy-N,verify,10,4,5,433.4
+Icy-A,preprocess-token,10,4,5,290.3
+Icy-A,round1,10,4,5,1177.5
+Icy-A,round2,10,4,5,6836.2
+Icy-A,combine,10,4,5,9251.9
+Icy-A,verify,10,4,5,892.8
+GLOW-DVRF,peval,25,12,13,286.6
+GLOW-DVRF,pver,25,12,13,407.3
+GLOW-DVRF,combine,25,12,13,5817.2
+GLOW-DVRF,verify,25,12,13,780.9
+GLOW-A MSP-pop,keygen,25,12,13,271.9
+GLOW-A MSP-pop,setup-pop-check,25,12,13,18681.5
+GLOW-A MSP-pop,peval,25,12,13,420.4
+GLOW-A MSP-pop,pver,25,12,13,1211.7
+GLOW-A MSP-pop,combine,25,12,13,21572.4
+GLOW-A MSP-pop,verify,25,12,13,1772.8
+GLOW-A ASM-pop,setup-pop-check,25,12,13,19075.3
+GLOW-A ASM-pop,setup-group,25,12,13,3988.3
+GLOW-A ASM-pop,peval,25,12,13,421.4
+GLOW-A ASM-pop,pver,25,12,13,1506.9
+GLOW-A ASM-pop,combine,25,12,13,20320.7
+GLOW-A ASM-pop,verify,25,12,13,1533.4
+DDH-DVRF,peval,25,12,13,298.8
+DDH-DVRF,pver,25,12,13,419.7
+DDH-DVRF,combine,25,12,13,5185.1
+DDH-DVRF,verify,25,12,13,4669.2
+Icy-DVRF,preprocess-token,25,12,13,226.7
+Icy-DVRF,round1,25,12,13,760.5
+Icy-DVRF,round2,25,12,13,2006.3
+Icy-DVRF,combine,25,12,13,12586.8
+Icy-DVRF,verify,25,12,13,376.1
+Icy-N,preprocess-token,25,12,13,145.5
+Icy-N,round1,25,12,13,765.6
+Icy-N,round2,25,12,13,16353.0
+Icy-N,combine,25,12,13,22514.4
+Icy-N,verify,25,12,13,587.8
+Icy-A,preprocess-token,25,12,13,290.0
+Icy-A,round1,25,12,13,1508.7
+Icy-A,round2,25,12,13,20607.7
+Icy-A,combine,25,12,13,29185.6
+Icy-A,verify,25,12,13,1521.5
+GLOW-DVRF,peval,50,24,25,443.1
+GLOW-DVRF,pver,50,24,25,533.9
+GLOW-DVRF,combine,50,24,25,13919.7
+GLOW-DVRF,verify,50,24,25,791.7
+GLOW-A MSP-pop,keygen,50,24,25,275.4
+GLOW-A MSP-pop,setup-pop-check,50,24,25,38349.0
+GLOW-A MSP-pop,peval,50,24,25,421.1
+GLOW-A MSP-pop,pver,50,24,25,1203.5
+GLOW-A MSP-pop,combine,50,24,25,32374.0
+GLOW-A MSP-pop,verify,50,24,25,1249.7
+GLOW-A ASM-pop,setup-pop-check,50,24,25,38233.0
+GLOW-A ASM-pop,setup-group,50,24,25,7133.0
+GLOW-A ASM-pop,peval,50,24,25,627.1
+GLOW-A ASM-pop,pver,50,24,25,2135.3
+GLOW-A ASM-pop,combine,50,24,25,39272.9
+GLOW-A ASM-pop,verify,50,24,25,1999.8
+DDH-DVRF,peval,50,24,25,285.1
+DDH-DVRF,pver,50,24,25,384.0
+DDH-DVRF,combine,50,24,25,10119.2
+DDH-DVRF,verify,50,24,25,10092.5
+Icy-DVRF,preprocess-token,50,24,25,145.1
+Icy-DVRF,round1,50,24,25,440.7
+Icy-DVRF,round2,50,24,25,2305.8
+Icy-DVRF,combine,50,24,25,22129.0
+Icy-DVRF,verify,50,24,25,430.3
+Icy-N,preprocess-token,50,24,25,145.2
+Icy-N,round1,50,24,25,765.6
+Icy-N,round2,50,24,25,35018.7
+Icy-N,combine,50,24,25,42263.8
+Icy-N,verify,50,24,25,497.7
+Icy-A,preprocess-token,50,24,25,290.7
+Icy-A,round1,50,24,25,1673.9
+Icy-A,round2,50,24,25,26182.7
+Icy-A,combine,50,24,25,39066.1
+Icy-A,verify,50,24,25,1333.3
+GLOW-DVRF,peval,100,49,50,289.3
+GLOW-DVRF,pver,100,49,50,368.6
+GLOW-DVRF,combine,100,49,50,23798.2
+GLOW-DVRF,verify,100,49,50,780.7
+GLOW-A MSP-pop,keygen,100,49,50,272.0
+GLOW-A MSP-pop,setup-pop-check,100,49,50,77352.7
+GLOW-A MSP-pop,peval,100,49,50,426.7
+GLOW-A MSP-pop,pver,100,49,50,1294.3
+GLOW-A MSP-pop,combine,100,49,50,77519.7
+GLOW-A MSP-pop,verify,100,49,50,1305.7
+GLOW-A ASM-pop,setup-pop-check,100,49,50,77167.0
+GLOW-A ASM-pop,setup-group,100,49,50,13515.0
+GLOW-A ASM-pop,peval,100,49,50,423.3
+GLOW-A ASM-pop,pver,100,49,50,1446.5
+GLOW-A ASM-pop,combine,100,49,50,76084.0
+GLOW-A ASM-pop,verify,100,49,50,2372.5
+DDH-DVRF,peval,100,49,50,300.2
+DDH-DVRF,pver,100,49,50,418.5
+DDH-DVRF,combine,100,49,50,18717.6
+DDH-DVRF,verify,100,49,50,19446.8
+Icy-DVRF,preprocess-token,100,49,50,145.4
+Icy-DVRF,round1,100,49,50,440.5
+Icy-DVRF,round2,100,49,50,2468.5
+Icy-DVRF,combine,100,49,50,41729.5
+Icy-DVRF,verify,100,49,50,437.2
+Icy-N,preprocess-token,100,49,50,145.1
+Icy-N,round1,100,49,50,764.5
+Icy-N,round2,100,49,50,56878.2
+Icy-N,combine,100,49,50,71805.7
+Icy-N,verify,100,49,50,434.4
+Icy-A,preprocess-token,100,49,50,290.2
+Icy-A,round1,100,49,50,2098.7
+Icy-A,round2,100,49,50,54963.0
+Icy-A,combine,100,49,50,87533.2
+Icy-A,verify,100,49,50,1821.4
+GLOW-P,crs-setup,5,2,3,675.3
+GLOW-P,peval,5,2,3,420.6
+GLOW-P,pver,5,2,3,1209.7
+GLOW-P,combine,5,2,3,30560.4
+GLOW-P,verify,5,2,3,15278.2
+GLOW-P,trace,5,2,3,16024.6
+GLOW-P,judge,5,2,3,1193.8
+GLOW-P,crs-setup,6,2,3,972.4
+GLOW-P,peval,6,2,3,422.4
+GLOW-P,pver,6,2,3,1191.2
+GLOW-P,combine,6,2,3,33167.8
+GLOW-P,verify,6,2,3,16030.4
+GLOW-P,trace,6,2,3,16512.8
+GLOW-P,judge,6,2,3,779.5
+GLOW-P,crs-setup,7,3,4,686.4
+GLOW-P,peval,7,3,4,422.3
+GLOW-P,pver,7,3,4,1195.3
+GLOW-P,combine,7,3,4,39521.1
+GLOW-P,verify,7,3,4,18230.2
+GLOW-P,trace,7,3,4,18565.6
+GLOW-P,judge,7,3,4,780.7
+GLOW-P,crs-setup,10,4,5,670.1
+GLOW-P,peval,10,4,5,420.9
+GLOW-P,pver,10,4,5,1250.2
+GLOW-P,combine,10,4,5,52130.4
+GLOW-P,verify,10,4,5,23121.5
+GLOW-P,trace,10,4,5,26297.3
+GLOW-P,judge,10,4,5,783.4
+GLOW-P,crs-setup,25,12,13,667.0
+GLOW-P,peval,25,12,13,419.7
+GLOW-P,pver,25,12,13,1208.7
+GLOW-P,combine,25,12,13,126598.3
+GLOW-P,verify,25,12,13,48369.4
+GLOW-P,trace,25,12,13,50203.2
+GLOW-P,judge,25,12,13,776.9
+GLOW-P,crs-setup,50,24,25,665.4
+GLOW-P,peval,50,24,25,421.1
+GLOW-P,pver,50,24,25,1213.8
+GLOW-P,combine,50,24,25,245280.1
+GLOW-P,verify,50,24,25,98230.9
+GLOW-P,trace,50,24,25,95259.4
+GLOW-P,judge,50,24,25,817.4
+GLOW-P,crs-setup,100,49,50,669.2
+GLOW-P,peval,100,49,50,422.3
+GLOW-P,pver,100,49,50,1248.2
+GLOW-P,combine,100,49,50,478770.6
+GLOW-P,verify,100,49,50,188541.1
+GLOW-P,trace,100,49,50,182952.9
+GLOW-P,judge,100,49,50,856.5
