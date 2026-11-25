@@ -258,12 +258,19 @@ library BLS12381 {
     // Scalars and signer sets
     // ---------------------------------------------------------------------
 
-    function popcount(uint256 x) internal pure returns (uint256 c) {
+    /// Number of set bits of x, in constant gas (SWAR).
+    function popcount(uint256 x) internal pure returns (uint256) {
         unchecked {
-            while (x != 0) {
-                x &= x - 1;
-                c++;
-            }
+            uint256 m1 = 0x5555555555555555555555555555555555555555555555555555555555555555;
+            uint256 m2 = 0x3333333333333333333333333333333333333333333333333333333333333333;
+            uint256 m4 = 0x0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f;
+            x = x - ((x >> 1) & m1);
+            x = (x & m2) + ((x >> 2) & m2);
+            x = (x + (x >> 4)) & m4;
+            // Bytes hold at most 8; widen to 16-bit lanes and sum them all.
+            uint256 m8 = 0x00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff;
+            x = (x & m8) + ((x >> 8) & m8);
+            return (x * 0x0001000100010001000100010001000100010001000100010001000100010001) >> 240;
         }
     }
 
